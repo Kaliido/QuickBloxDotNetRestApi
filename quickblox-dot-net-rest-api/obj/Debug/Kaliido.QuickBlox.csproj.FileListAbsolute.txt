@@ -1,0 +1,9 @@
+G:\Code\kaliido-quickblox-api-new\kaliido-quickblox-api\Kaliido.QuickBlox.Api\Kaliido.QuickBlox\obj\Debug\Kaliido.QuickBlox.csprojResolveAssemblyReference.cache
+G:\Code\kaliido-quickblox-api-new\kaliido-quickblox-api\Kaliido.QuickBlox.Api\Kaliido.QuickBlox\bin\Debug\Kaliido.QuickBlox.dll
+G:\Code\kaliido-quickblox-api-new\kaliido-quickblox-api\Kaliido.QuickBlox.Api\Kaliido.QuickBlox\bin\Debug\Kaliido.QuickBlox.pdb
+G:\Code\kaliido-quickblox-api-new\kaliido-quickblox-api\Kaliido.QuickBlox.Api\Kaliido.QuickBlox\bin\Debug\Newtonsoft.Json.dll
+G:\Code\kaliido-quickblox-api-new\kaliido-quickblox-api\Kaliido.QuickBlox.Api\Kaliido.QuickBlox\bin\Debug\RestSharp.dll
+G:\Code\kaliido-quickblox-api-new\kaliido-quickblox-api\Kaliido.QuickBlox.Api\Kaliido.QuickBlox\bin\Debug\Newtonsoft.Json.xml
+G:\Code\kaliido-quickblox-api-new\kaliido-quickblox-api\Kaliido.QuickBlox.Api\Kaliido.QuickBlox\bin\Debug\RestSharp.xml
+G:\Code\kaliido-quickblox-api-new\kaliido-quickblox-api\Kaliido.QuickBlox.Api\Kaliido.QuickBlox\obj\Debug\Kaliido.QuickBlox.dll
+G:\Code\kaliido-quickblox-api-new\kaliido-quickblox-api\Kaliido.QuickBlox.Api\Kaliido.QuickBlox\obj\Debug\Kaliido.QuickBlox.pdb

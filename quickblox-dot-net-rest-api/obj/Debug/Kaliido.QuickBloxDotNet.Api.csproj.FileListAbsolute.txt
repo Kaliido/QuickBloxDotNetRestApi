@@ -1,0 +1,10 @@
+G:\Code\quickblox-dot-net-api\bin\Debug\Kaliido.QuickBloxDotNet.Api.dll
+G:\Code\quickblox-dot-net-api\bin\Debug\Kaliido.QuickBloxDotNet.Api.pdb
+G:\Code\quickblox-dot-net-api\bin\Debug\Newtonsoft.Json.xml
+G:\Code\quickblox-dot-net-api\bin\Debug\RestSharp.xml
+G:\Code\quickblox-dot-net-api\obj\Debug\Kaliido.QuickBloxDotNet.Api.dll
+G:\Code\quickblox-dot-net-api\obj\Debug\Kaliido.QuickBloxDotNet.Api.pdb
+G:\Code\quickblox-dot-net-api-folder\QuickBloxDotNetRestApi\quickblox-dot-net-rest-api\obj\Debug\Kaliido.QuickBloxDotNet.Api.dll
+G:\Code\quickblox-dot-net-api-folder\QuickBloxDotNetRestApi\quickblox-dot-net-rest-api\obj\Debug\Kaliido.QuickBloxDotNet.Api.pdb
+G:\Code\quickblox-dot-net-api-folder\QuickBloxDotNetRestApi\quickblox-dot-net-rest-api\bin\Debug\Kaliido.QuickBloxDotNet.Api.dll
+G:\Code\quickblox-dot-net-api-folder\QuickBloxDotNetRestApi\quickblox-dot-net-rest-api\bin\Debug\Kaliido.QuickBloxDotNet.Api.pdb
